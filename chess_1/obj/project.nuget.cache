@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNXauel/3vL2j363Ra+O71jTiD2KCnJx4ze8bj7i+OmzkswGNlS6fzGo2mpAMQSuo+AjvFosyif4UME5tbRoyQ==",
+  "success": true,
+  "projectFilePath": "C:\\programmeringcs\\chess\\chess_1\\chess_1\\chess_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuriy.petrov\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\yuriy.petrov\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
